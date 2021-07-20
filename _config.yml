@@ -1,8 +1,7 @@
 #title: AVERtek # your name photo (or website title) here
 logo1: "images/aquis logo-K18 a200.png? raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <h1 style="text-align: center;" markdown="1"><b>On Mobile Press AR Button to Experience Augmented Reality</h1></b></a> 
-  <br><br>
+  <h1 style="text-align: center;" markdown="1"><b>On Mobile Device Press AR Button to Experience Augmented Reality</h1></b></a> 
 theme: jekyll-theme-minimal
 # Google Analytics
 google_analytics: UA-00000000-0 
