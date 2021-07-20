@@ -2,7 +2,7 @@
 ## On Mobile: Press "AR" Button; To Video Press/Hold Camera Button; Then Share! 
 ## ENTER HERE 
 <br><br>
-<h2 style="text-align: center;" markdown="1"><b>FANS:</b><a href="http://bit.ly/DodgerGearAB" onclick="getOutboundLink('http://bit.ly/DodgerGearAB'); return false;"<b> GEAR UP</b><h/2></a>
+Wear MLB *[GEAR UP](https://www.AVERtek.net)* 
 <br><br> 
 <h2 style="text-align: center;" markdown="1"><b>2021:</b><a href="https://www.mlb.com/dodgers/schedule/2021-03" onclick="getOutboundLink('https://www.mlb.com/dodgers/schedule/2021-03'); return false;"<b> GAME SCHEDULE</b></h2></a>
 <br><br>
