@@ -1,5 +1,5 @@
 # New Template Design Reversed <!-- Loads <model-viewer> for old browsers like IE11: -->
-<h2 style="text-align: center;" markdown="1"> On Mobile: Press "AR" Button; To Video Press/Hold Camera Button; Then Share!</h2> 
+## <h2 style="text-align: center;" markdown="1"> On Mobile: Press "AR" Button; To Video Press/Hold Camera Button; Then Share!</h2> 
 <h1 style="text-align: center;" markdown="1"></b><a href="https://contest.avertek.net/139549" onclick="getOutboundLink('https://contest.avertek.net/139549'); return false;" <b>ENTER HERE</h1></b></a> 
 <br><br>
 <h2 style="text-align: center;" markdown="1"><b>FANS:</b><a href="http://bit.ly/DodgerGearAB" onclick="getOutboundLink('http://bit.ly/DodgerGearAB'); return false;"<b> GEAR UP</b><h/2></a>
