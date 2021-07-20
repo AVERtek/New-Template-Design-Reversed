@@ -1,6 +1,5 @@
 #title: AVERtek # your name photo (or website title) here
-.logo1-respond	{
-height: 100px; 
+.logo1-respond	{height: 100px; 
 width: 600px; 
 max-width: 600px;
 min-width: 280px;
