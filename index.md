@@ -134,7 +134,7 @@ var getOutboundLink = function(url) {
  <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.js">
   </script>
 <script nomodule="" src="https://unpkg.com/@google/model-viewer/dist/model-viewer-legacy.js"></script>
-<h2 style="text-align: center;" markdown="1"><a> BREADCRUMB #1</a></h2> 
+<h2 style="text-align: center;" markdown="1">BREADCRUMB #1</h2> 
 <h2 style="text-align: center;" markdown="1"><a href="https://www.AVERtek.net" onclick="getOutboundLink('https://www.AVERtek.net'); return false;"> BREADCRUMB #2</a></h2>
 ## BREADCRUMB #3 **[REWARD HERE](https://avertek.net/special-bonus)**
 
