@@ -1,9 +1,5 @@
 # New Template Design Reversed <!-- Loads <model-viewer> for old browsers like IE11: -->
-## On Mobile: Press "AR" Button; To Video Press/Hold Camera Button; Then Share! 
-## ENTER HERE 
-<br><br>
-## Wear MLB **[GEAR UP](https://www.AVERtek.net)** 
-<br><br> 
+## Discover a New Augmented Reality Experience Below! 
 <script nomodule="" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js">
   </script>
 
@@ -138,7 +134,10 @@ var getOutboundLink = function(url) {
  <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.js">
   </script>
 <script nomodule="" src="https://unpkg.com/@google/model-viewer/dist/model-viewer-legacy.js"></script>
-
+## ENTER HERE 
+<br><br>
+## Wear MLB **[GEAR UP](https://www.AVERtek.net)** 
+<br><br> 
 ---
 
 <h3 style="text-align: center;" markdown="1"><a href="https://avertek.net/" onclick="getOutboundLink('https://avertek.net/'); return false;">Learn More About AVERtek's XR-NOW</a></h3> 
