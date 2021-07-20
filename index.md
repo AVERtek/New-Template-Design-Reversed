@@ -138,7 +138,7 @@ var getOutboundLink = function(url) {
 <h2 style="text-align: center;" markdown="1"><a href="https://www.AVERtek.net" onclick="getOutboundLink('https://www.AVERtek.net'); return false;"> BREADCRUMB #2</a></h2>
 ## BREADCRUMB #3 **[REWARD HERE](https://avertek.net/special-bonus)**
 <br><br> 
-----------------------------------------------------------------------
+---
 
 <h3 style="text-align: center;" markdown="1"><a href="https://avertek.net/" onclick="getOutboundLink('https://avertek.net/'); return false;">Learn More About AVERtek's XR-NOW</a></h3> 
   <br><br>
