@@ -1,16 +1,16 @@
 # New Template Design Reversed <!-- Loads <model-viewer> for old browsers like IE11: -->
 <h2 style="text-align: center;" markdown="1"> On Mobile: Press "AR" Button; To Video Press/Hold Camera Button; Then Share!</h2> <!-- Loads <model-viewer> for old browsers like IE11: -->
 <h1 style="text-align: center;" markdown="1"></b><a href="https://contest.avertek.net/139549" onclick="getOutboundLink('https://contest.avertek.net/139549'); return false;"<b> ENTER HERE</h1></b></a> 
-  <br><br>
-  <h2 style="text-align: center;" markdown="1"><b>FANS:</b><a href="http://bit.ly/DodgerGearAB" onclick="getOutboundLink('http://bit.ly/DodgerGearAB'); return false;"<b> GEAR UP</b><h/2></a>
-  <br><br> 
-  <h2 style="text-align: center;" markdown="1"><b>2021:</b><a href="https://www.mlb.com/dodgers/schedule/2021-03" onclick="getOutboundLink('https://www.mlb.com/dodgers/schedule/2021-03'); return false;"<b> GAME SCHEDULE</b></h2></a>
-  <br><br>
-  <h2 style="text-align: center;" markdown="1"><b>BUY:</b><a href="https://www.mlb.com/dodgers/tickets" onclick="getOutboundLink('https://www.mlb.com/dodgers/tickets'); return false;"<b> DODGERS TICKETS</b></h2></a>
-  <br><br>
-  <h2 style="text-align: center;" markdown="1"><b>AUTHENTIC:</b><a href="https://avertek.github.io/Alexan-Bahay-1Bd/" onclick="getOutboundLink('https://avertek.github.io/Alexan-Bahay-1Bd/'); return false;"<b> LA LIVING</b></h2></a> 
-  <br><br>
-  <h2 style="text-align: center;" markdown="1"><b>TAKE TOUR; FREE GIFT:</b><a href="https://alexanbahay.com/special/?utm_source=AVERtek&utm_medium=AR" onclick="getOutboundLink('https://alexanbahay.com/special/?utm_source=AVERtek&utm_medium=AR'); return false;"<b> USE CODE: DODGERS</b></h2></a> 
+<br><br>
+<h2 style="text-align: center;" markdown="1"><b>FANS:</b><a href="http://bit.ly/DodgerGearAB" onclick="getOutboundLink('http://bit.ly/DodgerGearAB'); return false;"<b> GEAR UP</b><h/2></a>
+<br><br> 
+<h2 style="text-align: center;" markdown="1"><b>2021:</b><a href="https://www.mlb.com/dodgers/schedule/2021-03" onclick="getOutboundLink('https://www.mlb.com/dodgers/schedule/2021-03'); return false;"<b> GAME SCHEDULE</b></h2></a>
+<br><br>
+<h2 style="text-align: center;" markdown="1"><b>BUY:</b><a href="https://www.mlb.com/dodgers/tickets" onclick="getOutboundLink('https://www.mlb.com/dodgers/tickets'); return false;"<b> DODGERS TICKETS</b></h2></a>
+<br><br>
+<h2 style="text-align: center;" markdown="1"><b>AUTHENTIC:</b><a href="https://avertek.github.io/Alexan-Bahay-1Bd/" onclick="getOutboundLink('https://avertek.github.io/Alexan-Bahay-1Bd/'); return false;"<b> LA LIVING</b></h2></a> 
+<br><br>
+<h2 style="text-align: center;" markdown="1"><b>TAKE TOUR; FREE GIFT:</b><a href="https://alexanbahay.com/special/?utm_source=AVERtek&utm_medium=AR" onclick="getOutboundLink('https://alexanbahay.com/special/?utm_source=AVERtek&utm_medium=AR'); return false;"<b> USE CODE: DODGERS</b></h2></a> 
 
 <script nomodule="" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js">
   </script>
