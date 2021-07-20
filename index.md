@@ -134,8 +134,9 @@ var getOutboundLink = function(url) {
  <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.js">
   </script>
 <script nomodule="" src="https://unpkg.com/@google/model-viewer/dist/model-viewer-legacy.js"></script>
-## ENTER HERE 
-## Wear MLB **[GEAR UP](https://www.AVERtek.net)** 
+## BREADCRUMB #1 
+## BREADCRUMB #2 **[LEARN MORE](https://www.AVERtek.net)**
+## BREADCRUMB #3 **[REWARD HERE](https://avertek.net/special-bonus)**
 <br><br> 
 ---
 
