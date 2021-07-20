@@ -1,5 +1,5 @@
 # New Template Design Reversed <!-- Loads <model-viewer> for old browsers like IE11: -->
-## Discover a New Augmented Reality Experience Below! 
+## Now Discover a 2nd Augmented Reality Experience! 
 <script nomodule="" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js">
   </script>
 
@@ -135,7 +135,6 @@ var getOutboundLink = function(url) {
   </script>
 <script nomodule="" src="https://unpkg.com/@google/model-viewer/dist/model-viewer-legacy.js"></script>
 ## ENTER HERE 
-<br><br>
 ## Wear MLB **[GEAR UP](https://www.AVERtek.net)** 
 <br><br> 
 ---
