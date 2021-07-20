@@ -4,14 +4,6 @@
 <br><br>
 ## Wear MLB **[GEAR UP](https://www.AVERtek.net)** 
 <br><br> 
-<h2 style="text-align: center;" markdown="1"><b>2021:</b><a href="https://www.mlb.com/dodgers/schedule/2021-03" onclick="getOutboundLink('https://www.mlb.com/dodgers/schedule/2021-03'); return false;"<b> GAME SCHEDULE</b></h2></a>
-<br><br>
-<h2 style="text-align: center;" markdown="1"><b>BUY:</b><a href="https://www.mlb.com/dodgers/tickets" onclick="getOutboundLink('https://www.mlb.com/dodgers/tickets'); return false;"<b> DODGERS TICKETS</b></h2></a>
-<br><br>
-<h2 style="text-align: center;" markdown="1"><b>AUTHENTIC:</b><a href="https://avertek.github.io/Alexan-Bahay-1Bd/" onclick="getOutboundLink('https://avertek.github.io/Alexan-Bahay-1Bd/'); return false;"<b> LA LIVING</b></h2></a> 
-<br><br>
-<h2 style="text-align: center;" markdown="1"><b>TAKE TOUR; FREE GIFT:</b><a href="https://alexanbahay.com/special/?utm_source=AVERtek&utm_medium=AR" onclick="getOutboundLink('https://alexanbahay.com/special/?utm_source=AVERtek&utm_medium=AR'); return false;"<b> USE CODE: DODGERS</b></h2></a> <!-- Loads <model-viewer> for old browsers like IE11: -->
-
 <script nomodule="" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js">
   </script>
 
