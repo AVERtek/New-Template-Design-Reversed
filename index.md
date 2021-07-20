@@ -80,7 +80,7 @@
    </script>
 
 
-<model-viewer src="Models/K18_AR_version.glb?sound=Sound/K18_Test_2_sound.mp3" camera-controls camera-orbit="0deg 90deg 30%" autoplay animation-name="" id="reveal" id="model-viewer" loading="eager" ar ar-modes="scene-viewer webxr quick-look" ios-src="Models/DodgerGuy.reality" alt="K18 Fiber Journey" auto-rotate-delay="0" ar-scale="auto" camera-controls alt="New Template Design Reversed" style="width: 95%; height: 650px" ><button slot="ar-button" style="background-color: white; border-radius: 8px; border: 1 px solid black; position: absolute; top: 20px; right: 20px; ">
+<model-viewer src="Models/Bahay_1 bed Apartment_6_For Collider.glb?sound=Sound/K18_Test_2_sound.mp3" camera-controls camera-orbit="0deg 90deg 30%" autoplay animation-name="" id="reveal" id="model-viewer" loading="eager" ar ar-modes="scene-viewer webxr quick-look" ios-src="usdz_bahay_1_bed_apartment_6_for_collider___1615566350004.usdz" alt="New-Template-Design-Reversed" auto-rotate-delay="0" ar-scale="auto" camera-controls alt="New Template Design Reversed" style="width: 95%; height: 650px" ><button slot="ar-button" style="background-color: white; border-radius: 8px; border: 1 px solid black; position: absolute; top: 20px; right: 20px; ">
 
       👋 AR Click Here
   </button>
