@@ -141,5 +141,6 @@ var getOutboundLink = function(url) {
 
 ---
 
+<h4 style="text-align: center;" markdown="1"><b style="color:#000000;"><p style="font-family:calibri"><em> if AR button does not appear on mobile device, use another browser</em></p></h4></b>
 <h3 style="text-align: center;" markdown="1"><a href="https://avertek.net/" onclick="getOutboundLink('https://avertek.net/'); return false;">Learn More About AVERtek's XR-NOW</a></h3> 
   
